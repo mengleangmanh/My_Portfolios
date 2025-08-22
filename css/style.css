@@ -361,7 +361,7 @@ footer {
   }
 }
 
-@media (max-width: 884px) {
+@media (max-width: 1024px) {
   .nav {
     min-height: 56px;
   }
