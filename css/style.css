@@ -224,7 +224,7 @@ nav a:hover {
   align-items: center;
 }
 .about .photo {
-  aspect-ratio: 3/3.5;
+  aspect-ratio: 8/10;
   border-radius: var(--radius);
   background: linear-gradient(135deg, #0ea5e9, #22d3ee);
   padding: 6px;
