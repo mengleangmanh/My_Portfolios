@@ -359,7 +359,7 @@ footer {
     grid-template-columns: repeat(2, 1fr);
   }
   .hero {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1.1fr 0.9fr;
     text-align: center;
   }
   .hero-cta {
